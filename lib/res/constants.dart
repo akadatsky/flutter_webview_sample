@@ -1,0 +1,11 @@
+const double bottomScreenPadding = 60.0;
+const double hugePadding = 32.0;
+const double largePadding = 28.0;
+const double subLargePadding = 26.0;
+const double defaultPadding = 24.0;
+const double blockTopPadding = 20.0;
+const double middlePadding = 16.0;
+const double smallPadding = 12.0;
+const double xSmallPadding = 8.0;
+const double xxSmallPadding = 4.0;
+const double xxxSmallPadding = 2.0;
