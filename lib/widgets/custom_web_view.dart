@@ -52,14 +52,12 @@ class CustomWebView extends StatefulWidget {
 class CustomWebViewScreenData {
   String? initUrl;
   Map<String, String>? headers;
-  List<String> history;
+  List<String> history = [];
   int historyPageIndex = 0;
 
   CustomWebViewScreenData({
     this.initUrl,
     this.headers,
-    this.history = const [],
-    this.historyPageIndex = 0,
   });
 }
 
